@@ -14,3 +14,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge will preserve the exact history with a new merge commit,
 while rebase rewrites history to create a straight, linear timeline
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working on real data analytics project
