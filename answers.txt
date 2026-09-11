@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a very powerful tool for collaborating with
+peers on coding projects and is very helpful when working 
+on difficult projects you may mess up since it saves your 
+previous versions
