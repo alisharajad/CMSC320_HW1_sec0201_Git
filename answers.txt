@@ -4,3 +4,8 @@ Answer: Git is a very powerful tool for collaborating with
 peers on coding projects and is very helpful when working 
 on difficult projects you may mess up since it saves your 
 previous versions
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the healthcare field to predict 
+	diseases and improve patient outcomes
